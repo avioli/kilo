@@ -1,3 +1,6 @@
+// Based on guide from:
+// http://viewsourcecode.org/snaptoken/kilo/01.setup.html
+
 /*** includes ***/
 #include <ctype.h>
 #include <errno.h>
